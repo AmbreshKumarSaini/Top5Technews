@@ -4,7 +4,7 @@ Make a poster containing above scratched news, you can change templates accordin
 You can download that poster too.
 ![Screenshot from 2023-07-20 00-35-39](https://github.com/AmbreshKumarSaini/Top5Technews/assets/92514207/d7b4a606-5518-4cf7-bd72-63be79aa4bfe)
 
-Headline extracted news from below website.
+Headline extracted from below news website.
 
 ![Screenshot from 2023-07-20 00-36-43](https://github.com/AmbreshKumarSaini/Top5Technews/assets/92514207/94c7707b-7f71-4c1c-b614-40ed31789622)
 
