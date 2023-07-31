@@ -21,7 +21,7 @@ _You also have the option to download the aforementioned poster._
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/AmbreshKumarSaini/Top5Technews/assets/92514207/c7806a2e-2c37-42ec-b321-ed7182810d46"/>
+        <img src="https://github.com/AmbreshKumarSaini/Top5Technews/assets/92514207/554c79c4-dd25-4e74-b63c-6b8fa550df19"/>
       </td>
       <td>
         <img src="https://github.com/AmbreshKumarSaini/Top5Technews/assets/92514207/733f0af0-9264-4491-a90d-5dc8e9a89d47"/>
